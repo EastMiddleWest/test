@@ -3,3 +3,5 @@
 const f = () => {
   return 'Hell!'
 }
+
+const str = f()
